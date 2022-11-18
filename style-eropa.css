@@ -542,7 +542,7 @@ footer{
         font-size: 5vh;
     }
 }
-@media only screen and (max-width: 550px){
+@media only screen and (max-width: 500px){
     .logo{
         width: 80px;
         position: fixed;
